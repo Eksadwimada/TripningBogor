@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Trip Bogor</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_profile">Profil</string>
+    <string name="tour_title">Tour Title</string>
+    <string name="tour_description">Bogor</string>
+
+    <string name="paralayang">Paralayang Bukit Gantole</string>
+    <string name="bunga">Taman Bunga Nusantara</string>
+    <string name="highland">Highland Park Resort</string>
+    <string name="taman_wisata">Taman Wisata Gunung Pancar</string>
+    <string name="curug_cibaliung">Curug Cibaliung</string>
+    <string name="pemandian_air">Tirta Sanita Ciseeng</string>
+
+    <string name="rate1">8.0</string>
+    <string name="rate2">9.0</string>
+    <string name="rate3">7.0</string>
+    <string name="rate4">6.0</string>
+    <string name="rate5">8.0</string>
+    <string name="rate6">8.0</string>
+
+    <string name="desc1">Paralayang Bukit Gantole merupakan salah satu wisata untuk merasakan sensasi ketinggian dan terbang dengan paralayang di Puncak, Kabupaten Bogor.</string>
+    <string name="desc2">Pemandian Air Panas Ciseeng Tirta Sanita adalah tempat wisata yang memiliki konsep sebagai "Pesona Wisata Nuansa Alam Menyehatkan". Pemandian air panas ini memiliki sumber air yang berasal dari bukit kapur yang mengandung senyawa belerang.</string>
+    <string name="desc3">Highland Park Resort Bogor merupakan sebuah resort atau sanggraloka berkonsep unik yang terletak di kaki Gunung Salak yang masih berada di kawasan Taman Nasional Halimun, Bogor.</string>
+    <string name="desc4">Wisata gunung pancar Sentul adalah salah satu destinasi tujuan wisata yang terletak di Kecamatan Babakan Madang, Kabupaten Bogor, Provinsi Jawa Barat. Wisata ini menawarkan keindahan alam yang sejuk dan asri, dengan hutan pinus, pemandangan gunung, dan sumber air panas alami.</string>
+    <string name="desc5">Curug Cibaliung merupakan tempat wisata yang terkenal dengan keindahan alamnya. Curug memiliki air yang jenih yang membuat setiap pengunjung ingin bermain air di kawasan ini. Apalagi debit air tidak terlalu deras sehingga wisatawan akan merasa nyaman berlibur di tempat ini.</string>
+    <string name="desc6">Taman Bunga Nusantara adalah sebuah taman bunga seluas 35 hektare yang terletak dekat Gunung Gede Pangrango dan Kebun Teh Bogor, Di taman ini disimpan berbagai tipe bunga dari seluruh dunia yang tumbuh di tempat ini, dalam hal ini terutama budi daya anggrek. Diperkirakan ada sekitar 2000 jenis anggrek yang dirawat di tempat ini.</string>
+
+    <string name="info1">wisatawan lokal : Rp. 350.000 dan wisatawan asing : Rp. 400.000</string>
+    <string name="info2">Tiket seharga Rp40.000 per orang</string>
+    <string name="info3">Kamar Apache: mulai dari Rp1,1 juta per malam, Kamar Standard: mulai dari Rp 1,2 juta per malam, Kamar Superior: mulai dari Rp 1,3 juta per malam, Kamar Deluxe: mulai dari Rp 1,4 juta per malam, Tree House: mulai dari Rp 1,7 juta per malam</string>
+    <string name="info4">Harga tiket hari biasa seharga Rp5.000 dan Rp10.000 saat akhir pekan </string>
+    <string name="info5">Biaya retribusiya adalah sebesar Rp15.000 di lokasi pertama yaitu di Leuwi Hejo</string>
+    <string name="info6">Harga tiket masuk untuk dewasa pada hari biasa sebesar Rp 12.000 dan Rp 15.000 untuk hari libur</string>
+</resources>
